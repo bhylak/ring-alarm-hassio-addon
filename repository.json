@@ -1,5 +1,4 @@
 {
-  "name": "Ring Alarm HASSIO Addon",
-  "maintainer": "RS"
-  
+  "name": "Ring MQTT HASSIO Addon",
+  "maintainer": "Ben Hylak"
 }
